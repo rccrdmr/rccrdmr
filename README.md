@@ -1,6 +1,6 @@
 ## Hey, I'm Riccardo De Maria! 👋
 
-💻 **Computer Science Major** | 📊 **Mathematics Major**
+💻 **Computer Science Major** | 🧮 **Mathematics Major**
 
 Passionate about solving real-world problems through code. Specializing in:
 
@@ -24,7 +24,6 @@ Passionate about solving real-world problems through code. Specializing in:
 ### 📫 Contact Me
 
 - **LinkedIn**: [linkedin.com/in/riccardo-demaria](https://linkedin.com/in/riccardo-demaria)  
-- **GitHub**: [github.com/rccrdmr](https://github.com/rccrdmr)  
 - **Email**: riccardo.demaria9@gmail.com
 
 <!--
