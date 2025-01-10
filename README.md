@@ -25,6 +25,7 @@ Passionate about solving real-world problems through code. Specializing in:
 
 - **LinkedIn**: [linkedin.com/in/riccardo-demaria](https://linkedin.com/in/riccardo-demaria)  
 - **Email**: riccardo.demaria9@gmail.com
+- **Website**: [www.riccardodemaria.com](https://riccardodemaria.com) 
 
 <!--
 **rccrdmr/rccrdmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
